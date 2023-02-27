@@ -19,7 +19,7 @@ or please select `drive` from `switch branches/tags`
 ## 🦒 Colab
 | Colab Page | Model Page
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable_diffusion_webui_colab.ipynb) stable_diffusion_webui_colab | https://huggingface.co/CompVis/stable-diffusion-v-1-4-original
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/coin1860/stable-diffusion-webui-colab/blob/main/stable_diffusion_webui_colab.ipynb) stable_diffusion_webui_colab | https://huggingface.co/CompVis/stable-diffusion-v-1-4-original
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/waifu_diffusion_webui_colab.ipynb) waifu_diffusion_webui_colab | https://huggingface.co/hakurei/waifu-diffusion-v1-3
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable_diffusion_inpainting_webui_colab.ipynb) stable_diffusion_inpainting_webui_colab | https://huggingface.co/runwayml/stable-diffusion-inpainting
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable_diffusion_1_5_webui_colab.ipynb) stable_diffusion_1_5_webui_colab | https://huggingface.co/runwayml/stable-diffusion-v1-5
